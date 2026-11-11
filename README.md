@@ -3,3 +3,5 @@ Hi, I'm Shreyas Manjunatha, a 3rd-semester B.Tech CSE student at Reva University
 Learning Python
 
 Interested in cloud computing
+
+Goal: contribute to open source
