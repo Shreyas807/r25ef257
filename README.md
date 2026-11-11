@@ -5,3 +5,7 @@ Learning Python
 Interested in cloud computing
 
 Goal: contribute to open source
+
+## Projects
+
+- **Portfolio Website**: A personal portfolio showcasing my web development projects and skills.
